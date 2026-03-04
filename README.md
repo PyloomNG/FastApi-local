@@ -11,7 +11,7 @@ API para enriquecer datos de perfiles de LinkedIn usando la API de Prospeo.
 
 1. Clonar el repositorio:
 ```bash
-git clone [<repo-url>](https://github.com/PyloomNG/FastApi-local.git)
+git clone https://github.com/PyloomNG/FastApi-local.git
 cd FastApi-local
 ```
 
